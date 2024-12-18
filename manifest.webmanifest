@@ -1,11 +1,11 @@
 {
-    "name": "Chop is dish",
-    "short_name": "Chop is dish",
+    "name": "Telega",
+    "short_name": "Telega",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "Chop is dish - Telegram game",
+    "description": "Sosal?",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
